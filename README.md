@@ -125,8 +125,7 @@ Selecciona un simulador de iPhone y presiona **⌘R**.
 
 | Nombre | Rol |
 |---|---|
-| Emiliano Ruíz Plancarte |  Desarrollo iOS / SwiftUI /
-Arquitectura |
+| Emiliano Ruíz Plancarte |  Desarrollo iOS / SwiftUI / Arquitectura |
 | Lourdes María García Garfias | UI Design, Accesibilidad, Desarrollo iOS |
 | Melanie Sayuri Solis  | ML / Modelos CoreML  |
 
